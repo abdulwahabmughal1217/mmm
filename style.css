@@ -1,0 +1,274 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mainbox{
+    display: flex;
+    justify-content: space-between;
+}
+.box1{
+    display: flex;
+    padding: 20px;
+}
+.box1 img{
+    width: 80px;
+}
+.box2 ul{
+    display: flex;
+    list-style: none;
+    padding: 50px;
+    gap: 40px;
+}
+.box2 ul li :hover{
+    border-bottom: 2px solid black;
+}
+.box2 a{
+    text-decoration: none;
+    color: black;
+}
+.mainbox1{
+    text-align: center;
+    padding: 50px;
+}
+#par{
+    font-size: 40px;
+}
+#par2{
+    font-size: 30px;
+}
+.mainbox1 button{
+    background-color: #00b6d1;
+    border: none;
+    padding: 12px 20px;
+    min-height: 48px;
+    min-width: 256px;
+    color: #fff;
+    border-radius: 7px;
+}
+.box3 img,h1,h5{
+    display: inline;
+}
+
+.box3 img{
+    width: 80px;
+    height: 60px;
+    padding: 10px 0px 0px 20px;
+}
+.mainbox2{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 50px;
+    padding: 50px;
+}
+.mainbox2 button{
+    background-color: lightgreen;
+    color: #fff;
+    border: none;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+}
+.box4{
+    background-color: #eee;
+    WIDTH: 250px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 12px;
+}
+.mainbox2 p{
+    font-size: 7px;
+}
+.box5{
+    background-color: #eee;
+    WIDTH: 250px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 12px;
+}
+.box6{
+    background-color: #eee;
+    WIDTH: 250px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 12px;
+}
+.mainbox3{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 50px;
+    padding: 50px;
+}
+.mainbox3 button{
+    background-color: lightgreen;
+    color: #fff;
+    border: none;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+}
+.box7{
+    background-color: #eee;
+    WIDTH: 250px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 12px;
+}
+.mainbox3 p{
+    font-size: 7px;
+}
+.box8{
+    background-color: #eee;
+    WIDTH: 250px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 12px;
+}
+.box9{
+    background-color: #eee;
+    WIDTH: 250px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 12px;
+}
+.mainbox4{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 50px;
+    padding: 50px;
+}
+.mainbox4 button{
+    background-color: lightgreen;
+    color: #fff;
+    border: none;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+}
+.box10{
+    background-color: #eee;
+    WIDTH: 250px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 12px;
+}
+.mainbox4 p{
+    font-size: 7px;
+}
+.box11{
+    background-color: #eee;
+    WIDTH: 250px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 12px;
+}
+.box12{
+    background-color: #eee;
+    WIDTH: 250px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 12px;
+}
+.lastbox{
+    padding: 50px 0px 0px 135px;
+    text-align: center;
+}
+.box13{
+    background-color: #eee;
+    WIDTH: 250px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 12px;
+}
+.box13 button{
+    background-color: lightgreen;
+    color: #fff;
+    border: none;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+}
+.box13 p{
+    font-size: 7px;
+}
+.blackbox{
+    background-color:#000;
+    color: #fff;
+    padding-top: 100px;
+}
+.box14{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.boxes1{
+    background-color: #fff;
+    width: 321px;
+    height: 200px;
+    padding: 30px;
+    border-radius: 5px;
+}
+.boxes1 h1{
+    color: #00b6d1;
+}
+.boxes1 label{
+    color: #000;
+}
+.boxes1 button{
+    background-color: #00b6d1;
+    color: #fff;
+    border: #00b6d1;
+    width: 100px;
+    height: 40px;
+    border-radius: 3px;
+}
+.boxes1 input{
+    border: 1px solid gray;
+    width: 300px;
+    height: 30px;
+}
+.box15{
+    padding: 50px 0px 0px 100px;
+}
+.box15 a{
+    text-decoration: none;
+    color: #00b6d1;
+}
+.mainbox5{
+    display: flex;
+    justify-content: space-around;
+}
+.mainbox5 ul{
+    list-style: none;
+    color: gray;
+}
+.box19 input{
+    border: 1px solid gray;
+    width: 200px;
+    height: 30px;
+}
+.box19 button{
+    background-color: #00b6d1;
+    color: #fff;
+    border: #00b6d1;
+    width: 100px;
+    height: 40px;
+    border-radius: 3px;
+}
+.fbox{
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.box21 ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+.box21 a{
+     text-decoration: none;
+     color: #000;
+     font-size: 35px;
+}
